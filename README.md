@@ -1,4 +1,4 @@
-👋 Hi, I’m Ahmed Fakhfakh  
+## 👋 Hi there, I'm Ahmed Fakhfakh  
 aka the bug whisperer, commit poet, and part-time frontend firefighter.
 
 🧑‍💻 Full-Stack Developer | DevOps Dabbler | Coffee-fueled Code Conjurer  
