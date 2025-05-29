@@ -1,40 +1,64 @@
-## 👋 Hi there, I'm Ahmed Fakhfakh  
-aka the bug whisperer, commit poet, and part-time frontend firefighter.
+## 👋 Hi there, I'm Ahmed Fakhfakh
 
-🧑‍💻 Full-Stack Developer | DevOps Dabbler | Coffee-fueled Code Conjurer  
-Graduated engineer, but still learning things my compiler didn’t warn me about.
+> aka the bug whisperer, commit poet, and part-time frontend firefighter.
 
-🧱 By day, I’m building scalable systems with React, Node, and Spring Boot.  
-By night, I’m either refactoring code I swore was “fine” yesterday or explaining to Jenkins why the pipeline broke (again).
+### 🧑‍💻 Full-Stack Developer | DevOps Dabbler | Code Conjurer
 
-✨ Highlights of my coding saga:
-- Turned monoliths into microservices without crying (much)  
-- Built web + mobile apps that didn’t crash on launch (🎉)  
-- Optimized APIs so fast they now answer before the question is asked  
-- Lured Docker and Jenkins into actually cooperating on CI/CD  
-- Dipped into AI with tools that make my code and my Git commits smarter (still waiting for AI that explains legacy code though)
+Graduated engineer, still learning things my compiler didn’t warn me about.
 
-💬 Fluent in:
-- JavaScript, Java, PHP, Dart — and sarcasm  
-- console.log therapy  
-- Explaining to non-tech people that yes, dark mode *is* essential
+---
 
-🧰 Tools of choice:
-🎨 Frontend: React.js ⚛️, Angular 🅰️, Flutter 🦋  
-🔧 Backend: Spring Boot 🌱, Node.js 🟢  
-📡 DevOps: Docker 🐳, Jenkins 🤖, SonarQube 🐛🔍  
-🧠 AI/ML: OpenAI API 🤯, TensorFlow 🤖, OpenCV 👁️  
-🗃️ Databases: MongoDB 🍃, MySQL 🐬  
-⚒️ Extras: REST APIs, Microservices, Git wizardry, CI/CD spells
+### 🔥 What I Do
 
-🌍 Tunisoise by origin, developer by obsession.  
-When I’m not writing code, I’m probably:  
-🎮 Raging at multiplayer lag  
-🔥 Debugging IRL around a campfire  
-🎬 Quoting movies like they’re API docs
+🧱 By day: Building scalable systems with React, Node, and Spring Boot.  
+🌙 By night: Refactoring code I swore was "fine" yesterday, and negotiating with Jenkins.
 
-📫 Slide into my inbox, my DMs, or my GitHub issues:
-🔗 [Portfolio](https://fakhfakhahmed.github.io/Portfolio-AF/)  
-💼 [LinkedIn](https://linkedin.com/in/ahmed-fakhfakh)
+---
 
-🧠 Motto: "If it compiles, ships, and makes someone’s life easier — it’s magic. If it doesn’t, blame caching."
+### ✨ My Coding Saga
+
+- 🧩 Turned monoliths into microservices (without losing my sanity — mostly)
+- 📱 Built web and mobile apps that *didn't* crash on launch 🎉
+- 🚀 Optimized APIs that now respond faster than your internet
+- 🤖 Dabbled in AI tools like OpenAI API, TensorFlow, and OpenCV — because why not make the code smarter than me?
+
+---
+
+### 🧰 Tools of Choice
+
+**Frontend:** React.js ⚛️, Angular 🅰️, Flutter 🦋  
+**Backend:** Spring Boot 🌱, Node.js 🟢  
+**DevOps:** Docker 🐳, Jenkins 🤖, SonarQube 🐛🔍  
+**AI/ML:** OpenAI API 🤯, TensorFlow 🤖, OpenCV 👁️  
+**Databases:** MongoDB 🍃, MySQL 🐬  
+**Extras:** REST APIs, Microservices, CI/CD spells, and Git wizardry
+
+---
+
+### 🌍 Based in
+
+🇹🇳 Tunisia – Home sweet home, where the Wi-Fi is fast and the bugs are faster.
+
+---
+
+### 🎮 When Not Coding...
+
+- Gaming in multiplayer lobbies (and blaming lag)  
+- Camping far from runtime errors  
+- Watching movies like I’m preparing for a film podcast  
+- Explaining dark mode to people like it’s a life philosophy
+
+---
+
+### 📫 Let’s Connect
+
+- 🌐 [Portfolio Website](https://fakhfakhahmed.github.io/Portfolio-AF/)  
+- 💼 [LinkedIn](https://linkedin.com/in/ahmed-fakhfakh)  
+- ✉️ fakhfakh.ahmeed@gmail.com
+
+---
+
+### 💡 Fun Fact
+
+> “If it compiles, ships, and makes someone’s life easier — it’s magic.  
+> If it doesn’t, blame caching.”
